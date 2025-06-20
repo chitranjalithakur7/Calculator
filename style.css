@@ -1,0 +1,83 @@
+
+
+.container{
+    /* display: flex; */
+    border: 1px solid green;
+    width: 346px;
+    margin: 200px auto;
+    padding: 25px 2px 15px 17px;
+    background-color:rgb(100, 92, 95);
+}
+
+.btn1{
+    width: 70px;
+    padding: 3px 0;
+    font-size: 15px;
+    margin: 10px 12px 0 0;
+    background-color:lightblue;
+}
+.btn2{
+    width: 70px;
+    padding: 3px 0;
+    font-size: 15px;
+    margin: 10px 12px 0 0;
+    background-color:lightblue;
+}
+.btn3{
+    width: 70px;
+    padding: 3px 0;
+    font-size: 15px;
+    margin: 10px 12px 0 0;
+    background-color:lightblue;
+}
+.btn4{
+    width: 70px;
+    padding: 3px 0;
+    font-size: 15px;
+    margin: 10px 12px 0 0;
+}
+.btn11{
+    width: 70px;
+    padding: 3px 0;
+    font-size: 15px;
+    margin: 10px 18px 0 0;
+    background-color:lightblue;
+}
+.btn10{
+    width: 70px;
+    padding: 3px 0;
+    font-size: 15px;
+    margin: 10px 12px 0 0;
+    background-color:lightblue;
+}
+.btn12{
+    width: 70px;
+    padding: 3px 0;
+    font-size: 15px;
+    margin: 10px 12px 0 0;
+    background-color:lightblue;
+}
+
+.btn111{
+    width: 70px;
+    padding: 3px 0;
+    font-size: 15px;
+    margin: 10px 12px 0 0;
+    background-color:lightblue;
+}
+
+input{
+    width: 92.9%;
+    padding: 8px 0;
+    background-color:rgb(50, 55, 61);
+    color: aliceblue;
+}
+
+.btndot{
+    width: 70px;
+    padding: 3px 0;
+    font-size: 15px;
+    background-color:lightblue;
+    margin: 10px 12px 0 0;
+    padding: 3px 20px;
+}
